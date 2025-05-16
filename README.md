@@ -1,1 +1,1 @@
-These are some of the CTF Chall's I have done as a member of the CIAT Cyber Security club CTF team 
+These Are Aome Af The CTF Chall's I Have Done As A Member Of The CIAT Cyber Security Club CTF Team 

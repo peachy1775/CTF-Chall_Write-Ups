@@ -5,6 +5,7 @@
 wordlist/
 rockyou.txt
 *.lst
+logs.txt
 
 # Secrets or credentials
 *.key
